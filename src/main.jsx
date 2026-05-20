@@ -304,7 +304,7 @@ const copy = {
     favoriteRemoved: '已取消收藏。',
     favoriteFailed: '收藏更新失败，请稍后再试。',
     closePreview: '关闭预览',
-    viewDetails: '查看详情',
+    viewDetails: '详情',
     generateTest: '生成测试',
     generateImage: '生成图片',
     generating: '生成中...',
