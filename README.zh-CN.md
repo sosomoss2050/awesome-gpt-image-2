@@ -7,6 +7,7 @@
   <a href="https://github.com/freestylefly/awesome-gpt-image-2"><img src="https://img.shields.io/github/forks/freestylefly/awesome-gpt-image-2?style=flat-square&color=green" alt="Forks"></a>
   <a href="https://github.com/freestylefly/awesome-gpt-image-2"><img src="https://img.shields.io/badge/Cases-484-blueviolet?style=flat-square" alt="Cases"></a>
   <a href="https://github.com/freestylefly/awesome-gpt-image-2"><img src="https://img.shields.io/badge/100%25-Original_AI_Rewritten-green?style=flat-square" alt="Original"></a>
+  <a href="https://github.com/sponsors/freestylefly"><img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ff69b4?style=flat-square" alt="Sponsor"></a>
 </p>
 
 <p align="center">
@@ -25,6 +26,10 @@
     <img src="data/images/site-preview.png" alt="GPT-Image2 Gallery 网站预览" width="900">
   </a>
 </p>
+
+## 💖 GitHub Sponsors
+
+如果这个项目帮你节省了整理案例和提示词模板的时间，欢迎通过 [GitHub Sponsors](https://github.com/sponsors/freestylefly) 支持持续采集案例、维护网站、整理工业级模板与 Agent Skill。
 
 ## 公众号与交流群
 

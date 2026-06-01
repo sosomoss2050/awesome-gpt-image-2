@@ -7,6 +7,7 @@
   <a href="https://github.com/freestylefly/awesome-gpt-image-2"><img src="https://img.shields.io/github/forks/freestylefly/awesome-gpt-image-2?style=flat-square&color=green" alt="Forks"></a>
   <a href="https://github.com/freestylefly/awesome-gpt-image-2"><img src="https://img.shields.io/badge/Cases-484-blueviolet?style=flat-square" alt="Cases"></a>
   <a href="https://github.com/freestylefly/awesome-gpt-image-2"><img src="https://img.shields.io/badge/100%25-Original_AI_Rewritten-green?style=flat-square" alt="Original"></a>
+  <a href="https://github.com/sponsors/freestylefly"><img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ff69b4?style=flat-square" alt="Sponsor"></a>
 </p>
 
 <p align="center">
@@ -25,6 +26,10 @@ Use the live site at [gpt-image2.canghe.ai](https://gpt-image2.canghe.ai/) to br
     <img src="data/images/site-preview.png" alt="GPT-Image2 Gallery website preview" width="900">
   </a>
 </p>
+
+## 💖 GitHub Sponsors
+
+If this project saves you time, you can support ongoing case collection, website maintenance, industrial template distillation, and Agent Skill updates through [GitHub Sponsors](https://github.com/sponsors/freestylefly).
 
 ## WeChat Official Account
 
